@@ -23,3 +23,11 @@ Virtual environment adalah tools yang bisa digunakan dalam membuat space terpisa
 - Menambahkan tabel data yang akan menampilkan data yang ada dari list_katalog yang memiliki data initial_catalog_data.json.
 - Menambahkan data diri
 ### 4. Melakukan deploy proyek django ke Heroku
+- Salin API KEY dari akun heroku `Account Settings -> API Key`
+- Buka konfigurasi repositori GitHub dan buka bagian Secrets untuk Github Actions `(Settings -> Secrets -> Actions)`
+- Agar bisa melakukan deployment, tambahkan variabel repository secret baru dan simpan variabel-variabel tersebut. Contohnya adalah sebagai berikut.
+
+    `(NAME)HEROKU_APP_NAME`
+    `(VALUE)APLIKASI-SAYA`
+
+- Buka tab GitHub Actions, lalu jalankan kembali workflow yang gagal
