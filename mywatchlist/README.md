@@ -19,8 +19,11 @@ Ketika ingin mengimplementasikan suatu stack ke stack lainnya, kita memerlukan D
 
 ## POSTMAN
 ### JSON
+![json](https://user-images.githubusercontent.com/94220270/191658459-456a0c9a-eb1e-4bd9-bbd3-fb9753da02ed.png)
 
 ### XML
+![xml](https://user-images.githubusercontent.com/94220270/191658452-3a435cfe-28dc-418f-a2ce-f650eeb7f7d6.png)
 
 ### HTML
+![html](https://user-images.githubusercontent.com/94220270/191658444-4912cae7-2752-4830-9d98-ab6640187dfe.png)
 
