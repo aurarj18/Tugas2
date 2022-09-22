@@ -6,8 +6,8 @@
             "watched": "Done",
             "title": "One Direction This is Us",
             "rating": 10,
-            "release_date": "August 29, 2013",
-            "review": "very good"
+            "release_date": "August 29th, 2013",
+            "review": "Good movie for one direction fans"
         }
     },
     {
@@ -15,10 +15,10 @@
         "pk": 2,
         "fields": {
             "watched": "Done",
-            "title": "One Direction This is Us",
-            "rating": 10,
-            "release_date": "August 29, 2013",
-            "review": "very good"
+            "title": "Nanti Kita Cerita Tentang Hari Ini (NKCTHI)",
+            "rating": 8,
+            "release_date": "January 2, 2020",
+            "review": "NKCTHI is a nice package of many people`s relatability, sadness, and happiness—which is indeed what lays in our life"
         }
     },
     {
@@ -26,10 +26,10 @@
         "pk": 3,
         "fields": {
             "watched": "Done",
-            "title": "One Direction This is Us",
-            "rating": 10,
-            "release_date": "August 29, 2013",
-            "review": "very good"
+            "title": "Titanic",
+            "rating": 7,
+            "release_date": "1997",
+            "review": "vThis movie has been shown frequently on local TV stations, so make sure you watch it!"
         }
     },
     {
@@ -37,10 +37,10 @@
         "pk": 4,
         "fields": {
             "watched": "Done",
-            "title": "One Direction This is Us",
-            "rating": 10,
-            "release_date": "August 29, 2013",
-            "review": "very good"
+            "title": "To All the Boys I've Loved Before",
+            "rating": 8,
+            "release_date": "August 17, 2018",
+            "review": "A teenage girl's secret love letters are exposed and wreak havoc on her love life"
         }
     },
     {
@@ -48,10 +48,10 @@
         "pk": 5,
         "fields": {
             "watched": "Done",
-            "title": "One Direction This is Us",
+            "title": "Haikyuu",
             "rating": 10,
-            "release_date": "August 29, 2013",
-            "review": "very good"
+            "release_date": "April 6, 204",
+            "review": "The show itself is pretty simple. It follows the adventures of a boys' high school volleyball team, and it is a bit overdramatic at times, but it's so much fun"
         }
     },
     {
@@ -59,10 +59,10 @@
         "pk": 6,
         "fields": {
             "watched": "Done",
-            "title": "One Direction This is Us",
-            "rating": 10,
-            "release_date": "August 29, 2013",
-            "review": "very good"
+            "title": "Jujutsu Kaisen 0",
+            "rating": 8,
+            "release_date": "March 18, 2022",
+            "review": "Jujutsu Kaisen 0 was a movie with a high enjoyment, some amazing fight scenes and minor flaws."
         }
     },
     {
@@ -70,10 +70,10 @@
         "pk": 7,
         "fields": {
             "watched": "Done",
-            "title": "One Direction This is Us",
-            "rating": 10,
-            "release_date": "August 29, 2013",
-            "review": "very good"
+            "title": "Your Lie in April",
+            "rating": 9,
+            "release_date": "April 6, 2011",
+            "review": "Your Lie in April is a cheesy drama loaded with inopportune comedy and cringe-worthy dialogue."
         }
     },
     {
@@ -81,10 +81,10 @@
         "pk": 8,
         "fields": {
             "watched": "Done",
-            "title": "One Direction This is Us",
+            "title": "Spy x Family",
             "rating": 10,
-            "release_date": "August 29, 2013",
-            "review": "very good"
+            "release_date": "April 9, 2022",
+            "review": "Spy x Family has all the key ingredients to make a classic family sitcom. It's got a memorable family with funny character "
         }
     },
     {
@@ -92,10 +92,10 @@
         "pk": 9,
         "fields": {
             "watched": "Done",
-            "title": "One Direction This is Us",
-            "rating": 10,
-            "release_date": "August 29, 2013",
-            "review": "very good"
+            "title": "Demon Slayer",
+            "rating": 8,
+            "release_date": "April 6, 2019",
+            "review": "This is a masterpiece built in tragedy and the love of family."
         }
     },
     {
@@ -103,10 +103,10 @@
         "pk": 10,
         "fields": {
             "watched": "Done",
-            "title": "One Direction This is Us",
-            "rating": 10,
-            "release_date": "August 29, 2013",
-            "review": "very good"
+            "title": "MY NEIGHBOR TOTORO",
+            "rating": 8,
+            "release_date": "1988",
+            "review": "A kid's film where there is no antagonist. Kids being able to express themselves and expend their personalities into a world of nature."
         }
     }
 ]
