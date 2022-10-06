@@ -6,13 +6,13 @@
 
 {% block content %}
 
-<div class = "login" style="text-align: center;">
+<div class = "login  position-absolute top-50 start-50 translate-middle">
 
-    <h1>Login</h1>
+    <h1 class="text-primary" style= "color:red" >Login</h1>
 
     <form method="POST" action="">
         {% csrf_token %}
-        <table style="margin-left: auto; margin-right: auto;">
+        <table>
             <tr>
                 <td>Username: </td>
                 <td><input type="text" name="username" placeholder="Username" class="form-control"></td>
@@ -25,22 +25,22 @@
 
             <tr>
                 <td></td>
-                <td><input class="btn login_btn" type="submit" value="Login"></td>
+                <td><input class="btn login_btn btn-primary" type="submit" value="Login"></td>
             </tr>
         </table>
     </form>
 
     {% if messages %}
-        <ul style="list-style-type: none;">
+        <ul>
             {% for message in messages %}
                 <li>{{ message }}</li>
             {% endfor %}
         </ul>
     {% endif %}     
         
-    Belum mempunyai akun?
-    <a href="{% url 'todolist:register' %}">Buat Akun</a>
+    Belum mempunyai akun? <a href="{% url 'todolist:register' %}">Buat Akun</a>
 
 </div>
 
 {% endblock content %}
+
