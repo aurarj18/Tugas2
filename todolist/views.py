@@ -11,6 +11,7 @@ from django.http import HttpResponseRedirect
 from django.urls import reverse
 from todolist.models import Task
 from todolist.forms import TaskForm
+from django.views.decorators.csrf import csrf_exempt
 
 # Create your views here.
 @login_required(login_url='/todolist/login/')
@@ -24,6 +25,7 @@ def show_todolist(request):
 
 
 @login_required(login_url='/todolist/login/')
+@csrf_exempt
 def add_task(request):
     form = TaskForm()
     if request.method == "POST":

@@ -23,19 +23,21 @@
                 <td><input type="text" name="description" placeholder="Description.." class="form-control"></td>
             </tr>
 
+    {% if messages %}
+            <ul>
+                {% for message in messages %}
+                    <li>{{ message }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}    
+        
             <tr>
                 <td colspan="2"><button class="btn btn-dark" type="submit" value="Submit">Submit</td>
             </tr>
         </table>
     </form>
 
-    {% if messages %}
-        <ul>
-            {% for message in messages %}
-                <li>{{ message }}</li>
-            {% endfor %}
-        </ul>
-    {% endif %}     
+     
 
 </div>
 
